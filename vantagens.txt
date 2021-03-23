@@ -2,3 +2,4 @@
 2- gerenciar versões
 3-organização de branch
 4- Replicação de Repositórios
+5- Facilita trabalho em equipe

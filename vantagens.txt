@@ -1,1 +1,2 @@
 1- Trabalho remoto
+2- gerenciar versões

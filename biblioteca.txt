@@ -1,0 +1,5 @@
+git init 
+git clone
+git checkout
+git branch
+git pull
